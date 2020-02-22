@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Project Keikaku</string>
+    <string name="nav_char">Character</string>
+    <string name="nav_word">Word</string>
+    <string name="fab_add">Add</string>
+    <string name="fab_review">Review</string>
+    <string name="dialog_add_chars_hint">Add characters&#8230;</string>
+    <string name="dialog_add_button">Add</string>
+    <string name="dialog_cancel_button">Cancel</string>
+    <string name="dialog_toast_add_chars">Please enter at least a character to add&#8230;</string>
+    <string name="lesson_action_prev">Previous</string>
+    <string name="lesson_action_next">Next</string>
+    <string name="lesson_action_complete">Complete</string>
+    <string name="lesson_action_check">Check</string>
+    <string name="lesson_char_meaning_input_hint">Please enter one of the meanings of the character&#8230;</string>
+    <string name="lesson_char_reading_input_hint">Please enter one of the readings of the character&#8230;</string>
+</resources>
